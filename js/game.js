@@ -168,7 +168,7 @@ class Game{
     addObstacles()
     {       
             var x, y;
-            //x= 200;
+            x= 200;
             //x = random(0, width-100);
             //x = random(0);
             //x = random();
